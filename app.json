@@ -1,7 +1,7 @@
 {
-    "name": "Song-Bot",
+    "name": "Music Bot",
     "description": "A Modular telegram song bot.",
-    "repository": "https://github.com/shamilhabeebnelli/Song-Bot",
+    "repository": "https://github.com/Rexinazor/Music-Downloader",
     "keywords": [
        
         "telegram bot",
@@ -19,7 +19,7 @@
         },
         "OWNER": {
             "description": "Your username without @.",
-            "value": "shamilhabeeb"
+            "value": "ZenoByte"
         },
         "START_MSG": {
             "description": "Start Message of BoT",
